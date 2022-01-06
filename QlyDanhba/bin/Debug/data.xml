@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Ten>0961693865</Ten>
+    <Diachi>Huế</Diachi>
+    <Sodth>Ngô Bảo Sơn</Sodth>
+    <Ghichu>Cá nhân</Ghichu>
+  </Table1>
+  <Table1>
+    <Ten>0963254865</Ten>
+    <Diachi>Huế</Diachi>
+    <Sodth>Võ Ngọc Như</Sodth>
+    <Ghichu>Cá nhân</Ghichu>
+  </Table1>
+  <Table1>
+    <Ten>0321568564</Ten>
+    <Diachi>Huế</Diachi>
+    <Sodth>Phan Văn Long</Sodth>
+    <Ghichu>Cá nhân</Ghichu>
+  </Table1>
+</NewDataSet>
